@@ -1,4 +1,4 @@
-# Chess CLI Game
+# Command line chess
 
 A command-line chess game featuring:  
 - **Single-Player Mode**: Play locally with `cli_chess.js`.  
